@@ -17,7 +17,8 @@ public class StaticAndNonstatic {
 		System.out.println("arvind age is 26yr");
 	}
 	public static void name() {
-		System.out.println("arvind is cool guy");
+		System.out.println("Arvind is Bad guy");
+		
 		
 	}
 
